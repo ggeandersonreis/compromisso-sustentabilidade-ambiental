@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rettecnologia.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%B1+Sustentabilidade+Ambiental;RET+Tecnologia+%E2%80%A2+Green+Software+%26+ESG" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%B1+Sustentabilidade+Ambiental;RET+Tecnologia+%E2%80%A2+Green+Software+%26+ESG" alt="Sustentabilidade Ambiental — RET Tecnologia • Green Software & ESG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CO2_Reduction-54%25_Remote_Work-success?style=flat-square&logo=leaf&logoColor=white" alt="CO2" />
+  <img src="https://img.shields.io/badge/CO2_Reduction-up_to_54%25_Remote_Work-success?style=flat-square&logo=leaf&logoColor=white" alt="CO2" />
   <img src="https://img.shields.io/badge/Green_Software-Foundation_Aligned-brightgreen?style=flat-square" alt="GSF" />
   <img src="https://img.shields.io/badge/ESG-Scope_1%2B2%2B3-blue?style=flat-square" alt="ESG" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <strong>Remote work reduz emissões de CO₂ em até 54% (Nature/PNAS). Data centers dobram consumo até 2026 (IEA).<br/>Na RET, sustentabilidade não é relatório anual — é arquitetura de operação.</strong>
+  <strong>Trabalho remoto pode reduzir em até 54% a pegada de carbono do trabalho (PNAS, 2023). O consumo de eletricidade dos data centers deve mais que dobrar até 2030 (IEA).<br/>Na RET, sustentabilidade não é relatório anual — é arquitetura de operação.</strong>
 </p>
 
 ---
@@ -50,12 +50,10 @@ Na **RET Tecnologia**, reconhecemos que a indústria de tecnologia é responsáv
 
 | Pesquisa | Resultado | Fonte |
 |----------|-----------|-------|
-| Redução de CO₂ com trabalho remoto | **até 54% por trabalhador** | Nature / PNAS (2023) |
-| Consumo energético de data centers até 2026 | **Dobra para 1,000 TWh** | IEA (International Energy Agency) |
-| Emissões do setor de TI (share global) | **2-4% das emissões globais** | The Shift Project |
-| Google: 100% energia renovável desde | **2017** | Google Environmental Report |
-| Impacto de documentos impressos | **1 árvore = ~8.333 folhas A4** | Yousign ESG Data |
-| Cloud vs. on-premise: eficiência energética | **até 80% mais eficiente** | Microsoft / AWS Studies |
+| Redução da pegada de carbono com trabalho remoto (EUA) | **até 54%** vs. trabalho presencial — depende de deslocamento, veículo e energia em casa | [Tao et al., PNAS (2023)](https://www.pnas.org/doi/10.1073/pnas.2304099120) |
+| Consumo de eletricidade de data centers | **415 TWh (2024) → ~945 TWh (2030)** | [IEA, *Energy and AI* (2025)](https://www.iea.org/reports/energy-and-ai/executive-summary) |
+| Emissões do setor digital (participação global) | **~3–4% das emissões globais** (estimativa de 2019) | [The Shift Project](https://theshiftproject.org/en/article/lean-ict-our-new-report/) |
+| Google: iguala 100% do consumo anual com compra de energia renovável desde | **2017** (meta: energia livre de carbono 24/7 até 2030) | [Google Sustainability](https://sustainability.google/reports/) |
 
 ---
 
@@ -68,18 +66,20 @@ Operação **100% remota** como decisão de sustentabilidade:
 - 🚫 **Zero deslocamento diário** — Eliminação completa de emissões de transporte
 - 🏢 **Zero escritório físico** — Sem consumo energético de instalações corporativas
 - ⚡ **Energia do home office** — Significativamente menor que escritório comercial
-- 📊 **Impacto calculado:** Economia média de **2.6 toneladas CO₂/ano por pessoa** (PNAS)
+- 📊 **Impacto estimado:** Até **54% menos** pegada de carbono por trabalhador remoto em relação ao presencial (PNAS, 2023), desde que hábitos de deslocamento e energia em casa acompanhem
 
 ### 2. ☁️ Cloud-First com Provedores Sustentáveis
 
-Selecionamos provedores de cloud com compromisso de **energia 100% renovável**:
+Priorizamos provedores de cloud com compromissos públicos de **energia renovável**:
 
 | Provedor | Status Energético | Referência |
 |---------|-------------------|-----------|
-| 🟢 **Google Cloud** | 100% renovável desde 2017 | Líder em PPA solar/eólica |
-| 🟢 **AWS** | Meta 100% renovável até 2025 | Pledge cumprido |
-| 🟢 **Cloudflare** | Compensação 100% de carbono | Carbon-neutral CDN |
-| 🟢 **Vercel / Netlify** | Edge computing eficiente | Menor latência = menos energia |
+| 🟢 **Google Cloud** | Iguala 100% do consumo anual com energia renovável desde 2017 | Meta: energia livre de carbono 24/7 até 2030 |
+| 🟢 **AWS** | Iguala 100% do consumo com energia renovável desde 2023 | Meta original era 2030 |
+| 🟢 **Cloudflare** | Iguala o consumo da rede com certificados de energia renovável | Compromisso de remover o carbono histórico até 2025 |
+| ⚪ **Vercel / Netlify** | Sem compromisso próprio verificado aqui | Verificar o provedor de nuvem subjacente |
+
+> "Igualar" significa comprar energia renovável (contratos ou certificados) em volume equivalente ao consumo anual. Não garante que cada hora de operação use energia limpa.
 
 ### 3. 💻 Green Software Engineering
 
@@ -121,8 +121,10 @@ Transparência total em métricas ambientais, alinhadas ao framework **GHG Proto
 | Scope | Descrição | Status RET |
 |-------|-----------|-----------|
 | **Scope 1** | Emissões diretas (combustíveis, frota) | ✅ **Zero** — Sem frota ou instalações |
-| **Scope 2** | Emissões de energia comprada | ✅ **Mínimo** — Cloud 100% renovável |
-| **Scope 3** | Emissões indiretas (supply chain, viagens) | 🔄 **Monitorando** — Remote-first minimiza |
+| **Scope 2** | Emissões da energia comprada pela própria empresa | ✅ **Mínimo** — Sem escritório próprio |
+| **Scope 3** | Emissões indiretas (serviços de nuvem, supply chain, viagens, home office) | 🔄 **Monitorando** — inclui o consumo de cloud |
+
+> Pelo GHG Protocol, o consumo de serviços de nuvem entra no **Escopo 3** do cliente (bens e serviços adquiridos), não no Escopo 2. O Escopo 2 cobre só a energia comprada pela própria empresa.
 
 </details>
 
@@ -130,14 +132,14 @@ Transparência total em métricas ambientais, alinhadas ao framework **GHG Proto
 
 ## 📊 Dashboard ESG
 
-| Indicador | Meta 2026 | Benchmark |
-|-----------|-----------|-----------|
-| 🌍 Emissão CO₂ por colaborador/ano | **< 0.5 ton** | Avg escritório: 3.0 ton |
-| ☁️ Cloud em energia 100% renovável | **100%** | Industry avg: 60% |
-| 📄 Documentos impressos / mês | **Zero** | — |
-| ♻️ E-waste: lifecycle extension | **5+ anos** | Avg: 3 anos |
-| 🌱 Carbon awareness em deploys | **Implementado** | Emergente 2026 |
-| 📊 ESG Report público | **Anual** | Best practice |
+| Indicador | Meta 2026 |
+|-----------|-----------|
+| 🌍 Emissão CO₂ por colaborador/ano | **< 0.5 ton** |
+| ☁️ Cloud em provedores com energia 100% renovável | **100%** |
+| 📄 Documentos impressos / mês | **Zero** |
+| ♻️ E-waste: lifecycle extension | **5+ anos** |
+| 🌱 Carbon awareness em deploys | **Implementado** |
+| 📊 ESG Report público | **Anual** |
 
 ---
 
@@ -145,12 +147,12 @@ Transparência total em métricas ambientais, alinhadas ao framework **GHG Proto
 
 | Framework / Fonte | Contribuição |
 |---|---|
-| **Nature / PNAS** | Estudo 54% CO₂ reduction com remote work |
-| **IEA** | Projeções de consumo energético de data centers |
-| **Green Software Foundation** | Princípios de software sustentável |
-| **The Shift Project** | Pegada de carbono da indústria digital |
-| **GHG Protocol** | Framework Scope 1+2+3 |
-| **Google Environmental Report** | Benchmark 100% energia renovável |
+| [**Tao et al., PNAS (2023)**](https://www.pnas.org/doi/10.1073/pnas.2304099120) | Até 54% menos pegada de carbono com trabalho remoto |
+| [**IEA — *Energy and AI* (2025)**](https://www.iea.org/reports/energy-and-ai/executive-summary) | Projeções de consumo energético de data centers |
+| [**Green Software Foundation**](https://greensoftware.foundation/) | Princípios de software sustentável |
+| [**The Shift Project**](https://theshiftproject.org/en/article/lean-ict-our-new-report/) | Pegada de carbono da indústria digital |
+| [**GHG Protocol**](https://ghgprotocol.org/) | Framework Scope 1+2+3 |
+| [**Google Sustainability**](https://sustainability.google/reports/) | Referência em compra de energia renovável |
 
 ---
 
